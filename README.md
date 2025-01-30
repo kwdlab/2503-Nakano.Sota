@@ -14,7 +14,6 @@ $ git clone https://github.com/kwdlab/2503-Nakano.Sota.git
 Sota Nakano
 
 # References
-プログラム作成に参考にした書籍、論文を書く。
 SageMath
 
 # License
