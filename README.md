@@ -1,20 +1,20 @@
 # Overview
-卒業研究で作成したプログラムの概要を1～3行で書く。
+This is a random sampling algorithm in SageMath.
 
 # Description
-卒業研究で作成したプログラムの詳細を書く。
+RandomSampling is a program that uniformly randomly sample the lattice vectors until the norm is shorter than the standard value.
 
 # Requirements
-使用したソフトウェア名称、ソフトウェアバージョン等のプログラムの動作環境を書く。
+SageMath version 9.5
 
 # Install/Usage
-プログラムのインストール法や使い方を書く。
+$ git clone https://github.com/kwdlab/2503-Nakano.Sota.git
 
 # Author
-自分の名前を書く。
+Sota Nakano
 
 # References
-プログラム作成に参考にした書籍、論文を書く。
+SageMath
 
 # License
-掲載しているプログラムのライセンスを書く。
+MIT
